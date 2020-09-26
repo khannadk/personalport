@@ -17,10 +17,17 @@
 h2 {
     color: snow;   
 }
+/* about me parameters */
 .col-sm-12 {
     color: snow;
     border-color: snow;
     border-style: solid;
     border-width: thin;
     font-style: italic;
+}
+/* icon links in About Me */
+.icon {
+    float: left;
+    padding: 5px;
+        
 }
