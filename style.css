@@ -1,0 +1,26 @@
+.row {
+    margin-top: 120px;
+    
+}
+.row1 {
+    margin: auto;
+}
+.card-text {
+    color: snow;
+    font-style: italic;
+    text-align: center;
+}
+.card-body {
+    background-color: black;
+}
+
+h2 {
+    color: snow;   
+}
+.col-sm-12 {
+    color: snow;
+    border-color: snow;
+    border-style: solid;
+    border-width: thin;
+    font-style: italic;
+}
